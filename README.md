@@ -4,15 +4,20 @@ A fully responsive front-end e-commerce website built using HTML, CSS, and Boots
 
 ## 📸 Preview
 
+
+![image](https://github.com/user-attachments/assets/25648a41-9ffe-4ec5-944d-2fa04ddd29e5)
+
+
+![image](https://github.com/user-attachments/assets/65d652c7-ce94-4584-90f7-8bbcccb61532)
+
+
+
 ![image](https://github.com/user![image](https://github.com/user-attachments/assets/e781c57b-5833-41f0-bdeb-9d523c5bcbd2)
 
-![image](https://github.com/user-attachments/assets/76190768-7423-4f97-ac29-89a9d20fe994)
-
-![image](https://github.com/user-attachments/assets/4dddbbe8-75de-44d7-8579-b38475474a35)
 
 
 
-![Website Screenshot](screenshot.png) <!-- Replace with actual screenshot if available -->
+
 
 ## 💻 Tech Stack
 
